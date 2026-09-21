@@ -1,2 +1,14 @@
-# github-first-practice
-我的第一个 GitHub 练习项目
+# 我的第一个 GitHub 项目
+
+这是我第一次练习使用 GitHub。
+
+## 我的学习目标
+
+- 学会创建仓库
+- 学会修改文件
+- 学会提交代码
+- 学会使用分支和 Pull Request
+
+## 学习记录
+
+今天完成了第一个 GitHub 仓库的创建。
